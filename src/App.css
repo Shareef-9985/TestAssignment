@@ -1,0 +1,26 @@
+.container{
+  margin-top: 100px;
+}
+
+
+.btn
+{
+  margin-left: 100px;
+ /* margin-bottom: 50px; */
+  border: 10px solid red;
+  width: 300px;
+}
+
+.center
+{
+  /* margin:50% ; */
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 300px;
+  /* background-color: red; */
+}
+.img{
+  width: 530px;
+  height: 360px;
+}
+
