@@ -10,7 +10,7 @@ function DarkVariantExample() {
     <Carousel data-bs-theme="dark">
       <Carousel.Item>
         <img
-          className="d-block img "
+          className="d-block w-100 "
           src={img}
           alt="First slide"
         />

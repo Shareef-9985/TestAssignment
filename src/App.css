@@ -1,5 +1,5 @@
 .container{
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 
@@ -19,8 +19,7 @@
   width: 300px;
   /* background-color: red; */
 }
-.img{
-  width: 530px;
-  height: 360px;
+.d-block{
+  margin-top: 80px;
 }
 
